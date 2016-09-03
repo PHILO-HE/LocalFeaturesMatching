@@ -1,10 +1,7 @@
+Local feature matching for images.
 
-  
+Steps:
 
-  1.±¾ÏîÄ¿ÊµÏÖÌØÕ÷µãÆ¥Åä£¬ÓÃharrisËã·¨¼ì²âÌØÕ÷µã£¬ÓÃ¼ò»¯°æµÄSIFTÃèÊöÌØÕ÷µã£¬ÓÃÅ·Ê½¾àÀëÖ®±ÈÀ´¶ÔÌØÕ÷µãÆ¥Åä¡£
-  
-  2.ÔÚ»ù±¾Íê³ÉÁËÊµÑéµÄÒªÇóºó£¬³¢ÊÔ¶ÔÌØÕ÷µãµÄÖ÷·½ÏòÃèÊö£¬´Ó¶øÔÚÌØÕ÷µãÃèÊöÊ±£¬´°¿ÚÄÚµÄÌÝ¶È·½ÏòÒª¾­¹ýÖ÷·½ÏòµÄµ÷Õû¡£µ«ÊµÑé½á¹û²¢²»ÀíÏë£¬
-    
-    ÏêÏ¸µÄËµÃ÷¼ûindex.htmlµÄFeature Descriptor²¿·Ö¡£
-  
-  3.¿ÉÖ±½ÓÔËÐÐcodeÖÐµÄ´úÂë£¬µÃµ½¸ø¶¨Í¼Æ¬µÄÊµÑé½á¹û¡£ÆäËûÊµÑé½á¹û£¨¶ÔÆäËûÍ¼Æ¬´¦Àí£©ÊÇÔÚ²ÎÊýµ÷ÕûºóµÃµ½µÄ£¬Ã»ÓÐÌá¹©code¡£
+harrisç®—æ³•æ£€æµ‹ç‰¹å¾ç‚¹ï¼›
+ç”¨ç®€åŒ–ç‰ˆçš„SIFTæè¿°ç‰¹å¾ç‚¹ï¼›
+ç”¨æ¬§å¼è·ç¦»ä¹‹æ¯”æ¥å¯¹ç‰¹å¾ç‚¹åŒ¹é…ã€‚
